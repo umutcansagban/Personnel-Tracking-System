@@ -11,7 +11,7 @@ namespace PersonelYonetimSistemi.Forms
 {
     public partial class MainForm : Form
     {
-
+          
         private PersonelYoneticisi yonetici;
         private Button selectedButton = null;
 
