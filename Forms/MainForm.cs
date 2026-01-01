@@ -145,7 +145,7 @@ namespace PersonelYonetimSistemi.Forms
                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-        }
+        } 
         private void btnAra_Click(object sender, EventArgs e)
         {
             string aramaMetni = txtArama.Text.Trim();
